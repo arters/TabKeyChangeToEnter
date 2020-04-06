@@ -6,7 +6,7 @@
 $('form.use-tab-enter').on('keydown', 'input, select', function(e) {
 
     var self = $(this), form = self.parents('form:eq(0)'), focusable, next;
-    focusable = form.find('input,select,textarea,a,button').filter(':visible');
+    focusable = form.find('input,select,textarea,a,button').filter(':visible:input:not([readonly])');
     if (e.key === "Enter") {
       next = focusable.eq(focusable.index(this)+1);
 
