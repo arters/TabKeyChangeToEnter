@@ -1,5 +1,5 @@
 # TabKeyChangeToEnter
-Pressing the enter key causes focus to go to the "next" form, last element trigger submit.
+Pressing the enter key causes focus to go to the "next" form, last element trigger submit in JavaScript(JS).
 
 當光標 focus 於輸入框時，透過鍵盤Tab、Enter可跳至下一格；
 並當 focus 在最後一個輸入框時，按壓 Enter 鍵即完成存檔
