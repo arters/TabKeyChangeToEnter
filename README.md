@@ -16,7 +16,7 @@ Example:
   </div>
 
   <input type="submit" value="Submit">
-  <input type="reset" value="Submit">
+  <input type="reset" value="Reset">
 </form>
 ```javascript
 
