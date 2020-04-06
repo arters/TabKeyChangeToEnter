@@ -23,4 +23,5 @@ Example:
 在需要的表單上，其 Class 增加 "use-tab-enter" 即可註冊此行為。
 
 
-[Online Demo](https://jsfiddle.net/Lvycoq10/)
+#### Online Demo:
+https://jsfiddle.net/awvu2kd3/
